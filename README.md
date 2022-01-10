@@ -4,7 +4,7 @@
 - 🤔 &nbsp; Full Stack Developer.
 - 🎓 &nbsp; Graduated in Computer Science at Universidade Paulista in São Paulo, Brazil.
 
-### 🛠 &nbsp;Tech Stack
+### 🛠 &nbsp;Main Tech Stack
 - 🌐 &nbsp;
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
