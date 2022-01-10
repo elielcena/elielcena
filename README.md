@@ -1,7 +1,7 @@
 ### Hi there 👋 i'm Eliel
 
 ### 💻 &nbsp;About Me 
-- 🤔 &nbsp; Full Stack Developer.
+- :white_check_mark: &nbsp; Full Stack Developer.
 - 🎓 &nbsp; Graduated in Computer Science at Universidade Paulista in São Paulo, Brazil.
 
 ### 🛠 &nbsp;Main Tech Stack
